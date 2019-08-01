@@ -4,6 +4,9 @@ Convierte señales de bytes por el puerto COM a un despliegue de los datos en la
 ## Requisitos
 1.  Tener [Python 3.7](https://www.python.org/downloads/) instalado.
 
+## Instalación
+1. Iniciar el archivo ""
+
 ## Uso
 1.  Conectar el dispositivo serial a la computadora.
 2.  Empezar a recibir strings de datos 
