@@ -12,4 +12,4 @@ Convierte señales de bytes por el puerto COM a un despliegue de los datos en la
 Las solicitudes son bienvenidas. Para cambios importantes, abra primero un problema para discutir qué le gustaría cambiar.
 
 ## Licencia
-[MIT](https://choosealicense.com/licenses/gpl-3.0/)
+[GLP](https://choosealicense.com/licenses/gpl-3.0/)
