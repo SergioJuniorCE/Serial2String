@@ -5,7 +5,7 @@ Convierte señales de bytes por el puerto COM a un despliegue de los datos en la
 1.  Tener [Python 3.7](https://www.python.org/downloads/) instalado.
 
 ## Instalación
-1. Iniciar el archivo ""
+1. Iniciar el archivo "Serial2String_1.0-Setup.exe"
 
 ## Uso
 1.  Conectar el dispositivo serial a la computadora.
